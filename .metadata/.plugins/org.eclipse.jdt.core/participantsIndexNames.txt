@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+/Users/daidojimana/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2345119264.index
+/web-basic/src/main/java
+/Users/daidojimana/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1620718628.index
+/web-basic/src/main/java
+/Users/daidojimana/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2617710419.index
+/web-basic/src/main/java
+/Users/daidojimana/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2922565943.index
+/web-basic/src/main/java
+/Users/daidojimana/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/213387970.index
+/web-basic/src/main/java
